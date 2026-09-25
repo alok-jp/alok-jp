@@ -176,7 +176,7 @@ Short description of what the project does and what problem it solves.
 
 **Tech:** `Next.js` `TypeScript` `Node.js` `PostgreSQL`
 
-<a href="https://github.com/alok-jp/YOUR-REPOSITORY">
+<a href="https://github.com/alok-jp/HireGrid">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
 </a>
 
@@ -192,7 +192,7 @@ Short description highlighting the most interesting technical aspect.
 
 **Tech:** `React` `Node.js` `Express` `MongoDB`
 
-<a href="https://github.com/alok-jp/YOUR-REPOSITORY">
+<a href="https://github.com/alok-jp/nodebase">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
 </a>
 
