@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Alok Verma 👋
 
-<!--
-**alok-jp/alok-jp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science undergraduate at **HBTU Kanpur** and Full-Stack Developer passionate about building reliable web apps, backend APIs, and developer tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+* 💻 **Full-Stack Engineering:** Next.js, React, Node.js, Express
+* 🗄️ **Databases & ORMs:** PostgreSQL, MongoDB, SQLite, Prisma
+* ⚙️ **Systems & Integrations:** REST APIs, Electron.js, Asynchronous AI workflows
+
+---
+
+### 🛠️ Tech Stack
+**Languages:** JavaScript, Java, Python  
+**Frontend:** React.js, Next.js, Tailwind CSS, Redux Toolkit  
+**Backend:** Node.js, Express.js, RESTful APIs  
+**Databases:** PostgreSQL, MongoDB, SQLite  
+**Tools:** Git, GitHub, Postman, Sentry, Inngest  
+
+---
+
+### 📬 Connect With Me
+* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+* **Email:** AlokVerm1566@gmail.com
+```[cite: 1]
